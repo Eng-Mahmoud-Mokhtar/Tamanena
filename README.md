@@ -1,12 +1,13 @@
 # tamanina
 
-A new Flutter project.
+طبيق ديني مميز يقدم القرآن الكريم كاملاً بنصوصه وتلاواته الصوتية.
+يوفر التطبيق أوقات الصلاة بدقة بناءً على موقع المستخدم، مع تذكيرات في الوقت المناسب لأداء الصلاة.
+كما يحتوي على مجموعة من الأحاديث النبوية، الأدعية، مسبحة إلكترونية (تسبيح)، أذكار يومية، وأسئلة وأجوبة دينية.
+بالإضافة إلى ذلك، يقدم التطبيق أسماء الله الحسنى ومجموعة متنوعة من الأحاديث الصحيحة، مما يمنح المستخدمين تجربة روحية شاملة.
+
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
